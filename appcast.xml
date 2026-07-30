@@ -8,7 +8,7 @@
             <sparkle:version>27</sparkle:version>
             <sparkle:shortVersionString>0.9.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Vahn84/hades-releases/releases/download/v0.9.5/Hades-0.9.5.dmg" length="57503210" type="application/octet-stream" sparkle:edSignature="bSggh6oEvXhiWlnkiC/Gc0yLksIvb9C54TlZl9WDKDI7fk7vMjc1XxshsGeWgCLr8WVTrnDjkRdpD38WAYggBw=="/>
+            <enclosure url="https://github.com/Materia-Works/hades-releases/releases/download/v0.9.5/Hades-0.9.5.dmg" length="57503210" type="application/octet-stream" sparkle:edSignature="bSggh6oEvXhiWlnkiC/Gc0yLksIvb9C54TlZl9WDKDI7fk7vMjc1XxshsGeWgCLr8WVTrnDjkRdpD38WAYggBw=="/>
         </item>
     </channel>
 </rss>
